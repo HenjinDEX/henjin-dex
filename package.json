@@ -32,9 +32,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "henjindex/sdk",
-  "author": "cryptoalgebra",
-  "module": "dist/integral-sdk.esm.js",
+  "name": "@henjindex/sdk",
+  "author": "nekojitaxyz",
+  "module": "dist/sdk.esm.js",
   "dependencies": {
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/address": "^5.7.0",
