@@ -2,7 +2,7 @@ import { ChainId } from "./chainIds"
 
 export const POOL_DEPLOYER_ADDRESSES = {
     [ChainId.Katla]: '0xfEE449019c51242F3b4E96A0bc66B455950c2650',
-    [ChainId.Hekla]: '0xb0756a80B7404e13fc21DA142D100B786fAc968e'
+    [ChainId.Hekla]: '0x7C6C4cACed640f7a06cD32272d9D7262916498Ac'
 }
 
 export const POOL_INIT_CODE_HASH = {
